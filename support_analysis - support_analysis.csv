@@ -1,0 +1,11 @@
+Ticket_ID,Issue_Type,Response_Time,Resolution_Time,Channel,Satisfaction
+1,Billing,5,30,Chat,4
+2,Technical,10,60,Email,3
+3,Delivery,3,20,Phone,5
+4,Technical,15,80,Email,2
+5,Billing,4,25,Chat,4
+6,Delivery,6,30,Phone,5
+7,Technical,12,70,Email,3
+8,Billing,5,20,Chat,4
+9,Delivery,4,25,Phone,5
+10,Technical,14,90,Email,2
